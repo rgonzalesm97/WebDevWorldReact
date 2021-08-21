@@ -1,5 +1,5 @@
 const Global = {
-    url: 'http://localhost:4000/api/article/'
+    url: 'https://web-dev-world-react.herokuapp.com/api/article/'
 }
 
 export default Global;
